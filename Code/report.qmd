@@ -1,0 +1,11 @@
+---
+title: "NewBorn Report"
+format: pdf
+editor: visual
+bibliography: references.bib
+---
+
+## Discover Higher-order Correlation between Molecular Profiles towards Newborn Delivery
+
+[@liu2024]
+
