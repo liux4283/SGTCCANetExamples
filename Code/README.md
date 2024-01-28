@@ -1,1 +1,1 @@
-
+This folder contains 3 code files: NewbornReport.qmd is the Quarto file used to generate the report, SGTCCA Source is the source code of SGTCCA algorithm, and new_born_sgtcca_net.R is the example run-through of the preterm labor data.  
